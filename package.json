@@ -1,0 +1,24 @@
+{
+  "name": "@danila/tslint-config",
+  "version": "1.0.0",
+  "description": "Tslint config that makes sense",
+  "author": "Daniil Demidovich <daniil.demidovich@gmail.com>",
+  "license": "MIT",
+  "main": "tslint.json",
+  "homepage": "https://github.com/O4epegb/tslint-config",
+  "bugs": "https://github.com/O4epegb/tslint-config/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/O4epegb/tslint-config.git"
+  },
+  "keywords": [
+    "tslint",
+    "typescript"
+  ],
+  "files": [
+    "tslint.json"
+  ],
+  "peerDependencies": {
+    "tslint": "^5.0.0"
+  }
+}
