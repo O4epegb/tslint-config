@@ -1,6 +1,6 @@
 {
   "name": "@danila/tslint-config",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Tslint config that makes sense",
   "author": "Daniil Demidovich <daniil.demidovich@gmail.com>",
   "license": "MIT",

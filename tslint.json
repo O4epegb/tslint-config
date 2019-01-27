@@ -4,6 +4,7 @@
         "quotemark": [true, "single", "jsx-double", "avoid-escape"],
         "arrow-parens": [true, "ban-single-arg-parens"],
         "semicolon": [true, "always", "ignore-bound-class-methods"],
+        "object-literal-key-quotes": [true, "as-needed"],
         "ordered-imports": false,
         "max-line-length": false,
         "array-type": false,
@@ -16,6 +17,7 @@
         "member-ordering": false,
         "variable-name": false,
         "max-classes-per-file": false,
-        "prefer-for-of": false
+        "prefer-for-of": false,
+        "triple-equals": true
     }
 }
