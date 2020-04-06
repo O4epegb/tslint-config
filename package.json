@@ -1,6 +1,6 @@
 {
   "name": "@danila/tslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tslint config that makes sense",
   "author": "Daniil Demidovich <daniil.demidovich@gmail.com>",
   "license": "MIT",
@@ -19,6 +19,6 @@
     "tslint.json"
   ],
   "peerDependencies": {
-    "tslint": "^5.0.0"
+    "tslint": "^6.0.0"
   }
 }
